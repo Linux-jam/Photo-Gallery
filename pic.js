@@ -1,6 +1,6 @@
         const images = [
-            'images/1.png',
-            'images/2.png'
+            'https://raw.githubusercontent.com/kons10/mypic_private/refs/heads/main/1.png?token=GHSAT0AAAAAADGUFOLQEGH6WO47R4DQT55Q2DEVAUA',
+            'https://raw.githubusercontent.com/kons10/mypic_private/refs/heads/main/2.png?token=GHSAT0AAAAAADGUFOLQ3BIB73AXZPTLF3OU2DEU77Q'
         ];
         
         let currentIndex = 0;
